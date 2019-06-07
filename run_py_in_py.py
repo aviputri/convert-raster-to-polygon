@@ -1,0 +1,1 @@
+exec(open("test2.py").read())
